@@ -1,5 +1,5 @@
 # Site settings
-title: Long's pythonic way to data science
+title: Long's story
 email: ldocao@gmail.com
 url: https://ldocao.github.io
 description: "From astrophysics to data science, the pythonic way."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Long DO CAO Github pages
+footer: Long Do Cao
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
