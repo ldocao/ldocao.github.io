@@ -9,14 +9,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+title:            Long's datablog
+tagline:          'A pythonic way from astrophysics to data science'
+url:              http://www.ldocao.github.io
+shorturl:         ldocao.github.io
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Long Do Cao'
+  url:            https://twitter.com/ldocao
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           github.com/ldocao/ldocao.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
