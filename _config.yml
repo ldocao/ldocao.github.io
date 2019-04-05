@@ -1,54 +1,24 @@
-# Welcome to Jekyll!
-#
-
 # Site settings
 title: Krystals
-description: Reliable & Elegant AI
-owner: Long Do Cao
-first_published: 2019
 email: ldocao@krystals.ai
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://krystals.ai" # the base hostname & protocol for your site
+url: https://krystals.ai
+description: "Reliable & Elegant AI"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Krystals
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/krystals-ai
-  linkedin-square: https://www.linkedin.com/company/krystals-ai/about/
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
+  - title: github
+    url: https://github.com/krystals-ai
+  - title: linkedin
+    url: https://www.linkedin.com/company/krystals-ai/about/
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+permalink: pretty
